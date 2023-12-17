@@ -1,2 +1,5 @@
 # FlickMate
-FlickMate is Content Based Movies Recommender System , which comes under unsupervised learning in Machine Learning
+This is a content-based recommender system, which comes under unsupervised learning in Machine Learning, in this project I have used 2 datasets of movies from TMDB(The Movie Data Base) website and manipulated the data (data extraction) according to the requirements, and makes tags on the basis of the required information, and used scikit-learn to search the cosine similarities between the searched movie and the rest of the movies and export them in a pickle file and used the data from the pickle file to show on the webpage with the help of Streamlit library for the overall designing of the webpage and used the TMDB API for the movie posters and hosted the website on the Netlify as a web app.
+
+![290616451-66ee25e2-536f-4059-a603-1938a63e47f9](https://github.com/yuvrajbagga/FlickMate/assets/113333290/c68dd49f-9305-4deb-a45a-b8303e981027)
+![290616458-dfd7a811-e5ec-4edb-9831-a8bdf40d2078](https://github.com/yuvrajbagga/FlickMate/assets/113333290/a4f00903-3dce-422e-8c54-4f6e863d9f6e)
